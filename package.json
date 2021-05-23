@@ -1,0 +1,15 @@
+{
+  "name": "link-preview-api",
+  "version": "1.0.0",
+  "description": "A REST API for previewing links",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Filip Troníček",
+  "license": "MIT",
+  "dependencies": {
+    "link-preview-js": "^2.1.6"
+  }
+}
