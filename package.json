@@ -10,6 +10,7 @@
   "author": "Filip Troníček",
   "license": "MIT",
   "dependencies": {
-    "link-preview-js": "^2.1.6"
+    "link-preview-js": "^2.1.6",
+    "validator": "^13.6.0"
   }
 }
