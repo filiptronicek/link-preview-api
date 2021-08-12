@@ -4,7 +4,7 @@ import { getLinkPreview } from "link-preview-js";
 import isURL from 'validator/lib/isURL';
 
 export default (request: VercelRequest, response: VercelResponse) => {
-  const { url = "https://trnck.dev/" } = request.query;
+  const { url = "https://github.com/" } = request.query;
   if (isURL(url)) {
     getLinkPreview(url).then((data) => {
         response.status(200).send(data);
