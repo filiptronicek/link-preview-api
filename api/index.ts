@@ -10,7 +10,7 @@ export default (request: VercelRequest, response: VercelResponse) => {
         response.status(200).send(data);
       });
   } else {
-    response.status(200).send({
+    response.status(400).send({
         status: "error",
         message: "Invalid URL provided"
     })
