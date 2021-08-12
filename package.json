@@ -13,5 +13,8 @@
     "@vercel/node": "^1.12.1",
     "link-preview-js": "^2.1.6",
     "validator": "^13.6.0"
+  },
+  "devDependencies": {
+    "@types/validator": "^13.6.3"
   }
 }
