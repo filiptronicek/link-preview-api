@@ -11,7 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "@vercel/node": "^1.12.1",
-    "link-preview-js": "^2.1.6",
+    "link-preview-js": "^2.1.8",
     "validator": "^13.6.0"
   },
   "devDependencies": {
