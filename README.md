@@ -1,2 +1,2 @@
-# link-preview-api
+# Link preview API
  A REST API for previewing links
