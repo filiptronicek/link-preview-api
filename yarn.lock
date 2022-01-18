@@ -133,9 +133,9 @@ htmlparser2@^6.1.0:
     domutils "^2.5.2"
     entities "^2.0.0"
 
-link-preview-js@^2.1.8:
-  version "2.1.8"
-  resolved "https://registry.yarnpkg.com/link-preview-js/-/link-preview-js-2.1.8.tgz#0ca6e099463f84121a14e38fb887c26f2126a8c6"
+link-preview-js@^2.1.10:
+  version "2.1.10"
+  resolved "https://registry.yarnpkg.com/link-preview-js/-/link-preview-js-2.1.10.tgz#9c4b3f2fe43eec2a5ecb013a7dc3ddbc0421f9d9"
   dependencies:
     abort-controller "^3.0.0"
     cheerio "1.0.0-rc.10"
