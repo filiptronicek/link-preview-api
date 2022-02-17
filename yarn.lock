@@ -10,9 +10,9 @@
   version "13.7.1"
   resolved "https://registry.yarnpkg.com/@types/validator/-/validator-13.7.1.tgz#cdab1b4779f6b1718a08de89d92d2603b71950cb"
 
-"@vercel/node@^1.12.1":
-  version "1.12.1"
-  resolved "https://registry.npmjs.org/@vercel/node/-/node-1.12.1.tgz"
+"@vercel/node@^1.13.0":
+  version "1.13.0"
+  resolved "https://registry.yarnpkg.com/@vercel/node/-/node-1.13.0.tgz#619595e1c90afeb1ad68ea6fa3652f7b3f682245"
   dependencies:
     "@types/node" "*"
     ts-node "8.9.1"
