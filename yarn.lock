@@ -10,11 +10,16 @@
   version "13.7.1"
   resolved "https://registry.yarnpkg.com/@types/validator/-/validator-13.7.1.tgz#cdab1b4779f6b1718a08de89d92d2603b71950cb"
 
-"@vercel/node@^1.13.0":
-  version "1.13.0"
-  resolved "https://registry.yarnpkg.com/@vercel/node/-/node-1.13.0.tgz#619595e1c90afeb1ad68ea6fa3652f7b3f682245"
+"@vercel/node-bridge@2.2.0":
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/@vercel/node-bridge/-/node-bridge-2.2.0.tgz#9f77e68733d782bb6edd1e86c2d2eae8e4ca7a3c"
+
+"@vercel/node@^1.14.1":
+  version "1.14.1"
+  resolved "https://registry.yarnpkg.com/@vercel/node/-/node-1.14.1.tgz#a63d8bfc0274cb0f89e4835f418d1b36e439f965"
   dependencies:
     "@types/node" "*"
+    "@vercel/node-bridge" "2.2.0"
     ts-node "8.9.1"
     typescript "4.3.4"
 
