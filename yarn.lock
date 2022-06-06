@@ -6,9 +6,9 @@
   version "16.6.0"
   resolved "https://registry.npmjs.org/@types/node/-/node-16.6.0.tgz"
 
-"@types/validator@^13.7.1":
-  version "13.7.1"
-  resolved "https://registry.yarnpkg.com/@types/validator/-/validator-13.7.1.tgz#cdab1b4779f6b1718a08de89d92d2603b71950cb"
+"@types/validator@^13.7.3":
+  version "13.7.3"
+  resolved "https://registry.yarnpkg.com/@types/validator/-/validator-13.7.3.tgz#3193c0a3c03a7d1189016c62b4fba4b149ef5e33"
 
 "@vercel/node@^1.13.0":
   version "1.13.0"
