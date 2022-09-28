@@ -10,7 +10,7 @@
   "author": "Filip Troníček",
   "license": "MIT",
   "dependencies": {
-    "@vercel/node": "^1.13.0",
+    "@vercel/node": "^2.5.20",
     "link-preview-js": "^2.1.13",
     "validator": "^13.7.0"
   },
